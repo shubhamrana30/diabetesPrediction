@@ -1,0 +1,5 @@
+---
+applications:
+ - name: shubdia090909
+   random-route: true
+   memory: 256M
